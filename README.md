@@ -70,30 +70,11 @@ Now that we have deployed phase 1, we can make a few enhancements. Also it will 
  
  ### Phase 4
  
+ Allow stock to be imported by using a background service
  
+ ### Phase 5
  
  Real time tracking
  
  
  
-
-Advanced
-
-# Customer Website
-
-In this section you will be building a customer facing project to allow customers to browse Comic Stock comic books.
-
-## Learning Outcomes
-
-Basic
-
- - 
- - 
-
-Advanced
-
- - Track a online order through using .Net gPRC.
- 
- ### Phase 2
- 
- Create a project to import bulk Stock from a File.
